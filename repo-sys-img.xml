@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <sdk:sdk-sys-img
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:sdk="http://schemas.android.com/sdk/android/sys-img/3">
     <sdk:system-image>
         <sdk:revision>1</sdk:revision>
@@ -20,3 +19,5 @@
         </sdk:archives>
     </sdk:system-image>
 </sdk:sdk-sys-img>
+
+<!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
